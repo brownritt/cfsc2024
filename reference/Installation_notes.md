@@ -40,13 +40,11 @@ On Windows open PowerShell and type
 ```shell
 where.exe git
 ```
-If a path to a git executable is returned, you already have it installed and can skip the next subsection.
-
-An alternative way to check is to open a shell and type
+If a path to a git executable is returned, you may already have it installed and can skip the next subsection. However, you should still try an alternative way to check by opening a shell and typing
 ```shell
 git --version
 ```
-You will see a clean message with version number if `git` is installed, or an error message similar to `Command not found` if not.
+You will see a clean message with version number if `git` is installed, or an error message similar to `Command not found` if not. On Macs, this command may show a warning that more installation is required; follow the instructions.
 
 ### Install `git`
 
