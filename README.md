@@ -4,6 +4,7 @@ Materials for the Carney Institute's 2024 Computational Fluency Short Course. Mu
 
 ### Associated repos
 
+- [Practice of collaborative editing through git](https://github.com/brownritt/cfsc2024-ex-git-collab) (*private*)
 - [Demonstration of paths to data and code](https://github.com/brownritt/cfsc2024-ex-paths)
 
 ### Installation
