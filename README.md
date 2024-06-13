@@ -8,6 +8,11 @@ Materials for the Carney Institute's 2024 Computational Fluency Short Course. Mu
 - [Demonstration of paths to data and code](https://github.com/brownritt/cfsc2024-ex-paths)
 - [Demonstration of basic coding concepts](https://github.com/brownritt/cfsc2024-coding-demos)
 
+### Links
+
+- [Oscar documentation](https://docs.ccv.brown.edu/oscar) from Brown's [Center for Computation and Visualization](https://ccv.brown.edu)
+- [Google Colab](https://colab.research.google.com/)
+
 ### Installation
 
 There is no code to install in this repo.
