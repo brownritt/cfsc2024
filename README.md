@@ -11,6 +11,7 @@ Materials for the Carney Institute's 2024 Computational Fluency Short Course. Mu
 ### Links
 
 - [Oscar documentation](https://docs.ccv.brown.edu/oscar) from Brown's [Center for Computation and Visualization](https://ccv.brown.edu)
+- Direct link to Oscar's [Open On Demand](https://ood.ccv.brown.edu/) service
 - [Google Colab](https://colab.research.google.com/)
 
 ### Installation
