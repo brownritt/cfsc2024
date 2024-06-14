@@ -33,13 +33,10 @@ df = pd.read_csv(datapath)
 print("Close figure to quit")
 
 plt.figure()
-plt.plot(df["Time (sec)"], df["Electrode (uV)"])
+plt.plot(df["Time (sec)"], df["S1 (uV)"],alpha=0.7, label='S1')
+plt.plot(df["Time (sec)"], df["M1 (uV)"],alpha=0.7, label='M1')
+plt.legend()
 plt.xlabel("Time (sec)")
-plt.ylabel("Electrode (uV)")
+plt.ylabel("Potential (uV)")
 plt.title(f'Data in {datafile}')
 plt.show()
-
-# TODO: Auto detect header names
-# TODO: Make interactive figure
-
-
